@@ -1,0 +1,38 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+    background-color: #FFD700;
+}
+.Section1{
+    background-color: #603601;
+    font-size: 25px;
+    width:100%;
+    height: 100px;
+    text-align: center;
+    padding:100px 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+a{
+    color: #66CC00;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 200;
+}
+li{
+    display: inline-block;
+}
+.Section2{
+    text-align: center;
+
+}
+h2{
+    word-spacing:0.1em;
+}
+p{
+    color: #993300;
+}
+p:last-child{
+    color: black;
+}
